@@ -383,7 +383,7 @@
                 </div>
                 <div class="column right">
                     <div class="text">Message me</div>
-                    <form action="feedbacks1.php" method="post">
+                    <form action="connection.php" method="post">
                         <div class="fields">
                             <div class="field name">
                                 <input type="text" placeholder="Name" name="firstname" required>
