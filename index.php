@@ -200,14 +200,6 @@
 
                 <div class="card">
                     <div class="box">
-                        <img src="images/Nasra.jpeg" alt="">
-                        <div class="text">Nasra M I F</div>
-                        <p>One of the member of our team, and very helpful in every projects!</p>
-                    </div>
-                </div>
-
-                <div class="card">
-                    <div class="box">
                         <img src="images/Simha.jpeg" alt="">
                         <div class="text">Simha M S F</div>
                         <p>One of the member of our team, and very helpful in every projects!</p>
