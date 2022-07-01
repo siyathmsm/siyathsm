@@ -407,7 +407,7 @@
 
     <!--footer section start-->
     <footer>
-        <span>Created By <a href="#">Siyath MSM</a> | <span class="far fa-copyright"></span> 2021 All rights reserved</span>
+        <span>Created By <a href="#">Siyath MSM</a> | <span class="far fa-copyright"></span> 2022 All rights reserved</span>
     </footer>
 
     <script src="script.js"></script>
