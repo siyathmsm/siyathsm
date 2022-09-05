@@ -208,6 +208,14 @@
                 
                 <div class="card">
                     <div class="box">
+                        <img src="images/" alt="">
+                        <div class="text">Kiruthika I</div>
+                        <p>One of the member of our team, and very helpful in every projects!</p>
+                    </div>
+                </div>
+                
+                <div class="card">
+                    <div class="box">
                         <img src="images/Seefa.jpeg" alt="">
                         <div class="text">Seefa R</div>
                         <p>One of the member of our team, and very helpful in every projects!</p>
