@@ -186,6 +186,7 @@
     </section>
 
     <!--teams section start-->
+    <!--
     <section class="teams" id="teams">
         <div class="max-width">
             <h2 class="title">My Teams</h2>
@@ -337,7 +338,7 @@
             </div>
         </div>
     </section>
-
+-->
     <!--contact section start-->
     <section class="contact" id="contact">
         <div class="max-width">
